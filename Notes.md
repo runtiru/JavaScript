@@ -8,3 +8,6 @@ variableName = 'tiru';
 
 console.log(variableName);
 ```
+helkhuhfhg
+jgf
+ugfyvl
